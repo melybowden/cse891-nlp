@@ -1,4 +1,8 @@
-# Add bias, increase epochs, batches and shuffling
+#############################################################################
+# Madison Bowden | NLP SS2020
+# MultiClass Perceptron Classifier
+#############################################################################
+
 import numpy as np
 from time import time
 import matplotlib.pyplot as plt
